@@ -4,6 +4,8 @@ Cap 10--> Dieléctricos
 Cap 11--> dentro de los dieléctricos
 Cap 12-->Analogías electroestáticas. ¿La subyacente unidad de la naturaleza? --> Mística pura
 Cap 13-->Magnetostática
-
-Plan: Cap 10 y parte del 11
-Evidentemente los capítulos 9 y 12 son falopa. Después los leo
+Cap 14-->Potencial magnético. Nunca lo vi y creo que importa
+Cap 15--> Sigue con el potencial. Entra en falopeadas de la mecánica cuántica. Solo sirve la última sección
+Cap 16-->Corrientes inducidas. Aplicaciones curiosas de la inducción. (No sirve)
+Cap 17-->Inducción y flujo
+Cap 18-->Ec´s de Juan Carlos Maxwell (tmb útil)
